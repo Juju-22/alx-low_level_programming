@@ -1,8 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - prints in lower case
- * Return - 0
+ * main -entry
+ *
+ * Return: Always 0 (sucess)
  */
 int main(void)
 {
