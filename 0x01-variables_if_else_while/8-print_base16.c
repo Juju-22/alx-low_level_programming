@@ -1,10 +1,10 @@
 #include <stdio.h>
-
 /**
  * main -entry
  *
  * Return: Always 0 (success)
  */
+
 int main(void)
 {
 	char c;
