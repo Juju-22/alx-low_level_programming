@@ -1,4 +1,4 @@
-#include "main.js"
+#include "main.h"
 
 /**
  * main - print _putchar and a new line
